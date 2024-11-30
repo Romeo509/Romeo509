@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **react, wordpress,**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Romeo509/Romeo509](https://github.com/Romeo509/Romeo509)
+- 👨‍💻 All of my projects are available at [https://github.com/Romeo509/](https://github.com/Romeo509)
 
 - 💬 Ask me about **js, react, python, php**
 
