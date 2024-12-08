@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/romeo_ronzine" target="blank"><img src="https://img.shields.io/twitter/follow/romeo_ronzine?logo=twitter&style=for-the-badge" alt="romeo_ronzine" /></a> </p>
 
-- 🌱 I’m currently learning **react, wordpress,**
+- 🌱 I’m currently learning **Next.js and Blockchain technology with python,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Romeo509/](https://github.com/Romeo509)
 
