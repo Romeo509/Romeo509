@@ -38,15 +38,11 @@
 
 ---
 
-<table>
-  <tr>
-    <td>
 
-```python
-# Code user is typing...
-print("Hello, World!")
-</td> <td> <img src="https://i.pinimg.com/originals/69/d2/8c/69d28cb69a870c8ebee0149f7d9fd7a5.gif" width="200"/> </td> </tr> </table>
-```
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=14&duration=1000&pause=500&color=ff00ff&center=false&vCenter=true&width=300&lines=┌──(kali㉿romeo)-[~];└─\$+vim+app.py;└─\$+print('Hello,+World!');└─\$+def+main():;└─\$+    print('Running+app...');└─\$+main();└─\$+:+wq" alt="Typing SVG" />
+</p>
+
 
 <picture>
   <source
