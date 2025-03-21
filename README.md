@@ -47,9 +47,8 @@
         <img src="https://readme-typing-svg.demolab.com?font=monospace&size=14&duration=700&pause=400&color=ff00ff&center=false&vCenter=true&width=600&lines=┌──(kali㉿romeo)-[~];└─\$+vim+server.py;└─\$+i;└─\$+import+socket;└─\$+server=socket.socket();└─\$+server.bind(('0.0.0.0',8080));└─\$+server.listen(5);└─\$+print('Server+Running...');└─\$+python+server.py;└─\$+Server+Running...;" alt="Typing SVG" />
       </p>
     </td>
-    
-    <!-- Right: GIF -->
-    <td>
+   
+   <td>
       <p align="right">
         <img src="https://i.pinimg.com/originals/69/d2/8c/69d28cb69a870c8ebee0149f7d9fd7a5.gif" width="300px"/>
       </p>
