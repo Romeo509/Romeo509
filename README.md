@@ -43,20 +43,18 @@
   <tr>
     <!-- Left: Typing Animation (Code Simulation) -->
        <td>
-            <p align="left">
-        <img src="https://readme-typing-svg.demolab.com?font=monospace&size=14&duration=800&pause=1200&color=ff00ff&center=false&vCenter=true&width=600&lines=
+          <p align="left">
+        <img src="https://readme-typing-svg.demolab.com?font=monospace&size=14&duration=1000&pause=1200&color=ff00ff&center=false&vCenter=true&width=600&lines=
         from+flask+import+Flask;
         app=Flask(__name__);
         @app.route('/');
         def+home():
-        return+'Hello,+World!'          
-        # Block 1 clears, now Block 2 starts
+        return+'Hello,+World!';
         from+flask+import+request;
         @app.route('/greet');
         def+greet():
         name=request.args.get('name','Guest');
-        return+f'Hello,+{name}!';
-        # Block 2 clears, now Block 3 starts
+        return+f'Hello,+{name}!';        
         if+__name__+==+'__main__':
         app.run(host='0.0.0.0',port=5000,debug=True);
         print('Server+Running...');
