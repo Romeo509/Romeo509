@@ -40,8 +40,9 @@
 
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=14&duration=800&pause=500&color=ff00ff&center=false&vCenter=true&width=500&lines=┌──(kali㉿romeo)-[~];└─\$+vim+app.py;└─\$+i;print('Hello,+World!');└─\$+def+main():;└─\$+    print('Running+app...');└─\$+main();└─\$+:+wq;└─\$+python+app.py;└─\$+Running+app..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=14&duration=700&pause=400&color=ff00ff&center=false&vCenter=true&width=600&lines=┌──(kali㉿romeo)-[~];└─\$+vim+server.py;└─\$+i;└─\$+import+socket;└─\$+host+='0.0.0.0';└─\$+port=8080;└─\$+server=socket.socket();└─\$+server.bind((host,port));└─\$+server.listen(5);└─\$+print('Server+Running...');└─\$+while+True:;└─\$+    client,addr=server.accept();└─\$+    print(f'Connection+from+{addr}');└─\$+    client.send(b'Hello+Client!');└─\$+    client.close();└─\$+:+wq;└─\$+python+server.py;└─\$+Server+Running...;" alt="Typing SVG" />
 </p>
+
 
 
 <picture>
