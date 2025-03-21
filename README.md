@@ -20,11 +20,11 @@
 ---
 
 ### 🏆 GitHub Stats & Activity:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=romiyo&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romiyo&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Romeo509&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Romeo509&layout=compact&theme=radical)
 
 #### 🚀 Snake Eating My Contributions:
-![Snake animation](https://github.com/romiyo/romiyo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Romeo509/Romeo509/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -41,9 +41,9 @@
 ---
 
 ### 📡 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/romiyo)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/romiyo)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/romiyo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Romeo509)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Romeo509)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/Romeo509)
 
 ---
 
