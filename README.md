@@ -43,10 +43,12 @@
   <tr>
     <!-- Left: Typing Animation (Code Simulation) -->
     <td>
+       <td>
       <p align="left">
-        <img src="https://readme-typing-svg.demolab.com?font=monospace&size=14&duration=700&pause=400&color=ff00ff&center=false&vCenter=true&width=600&lines=┌──(kali㉿romeo)-[~];└─\$+vim+server.py;└─\$+i;└─\$+import+socket;└─\$+server=socket.socket();└─\$+server.bind(('0.0.0.0',8080));└─\$+server.listen(5);└─\$+print('Server+Running...');└─\$+python+server.py;└─\$+Server+Running...;" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=monospace&size=14&duration=1200&pause=800&color=ff00ff&center=false&vCenter=true&width=600&lines=from+flask+import+Flask;app=Flask(__name__);@app.route('/');def+home():;return+'Hello,+World!';if+__name__+==+'__main__':;app.run(debug=True);" alt="Typing SVG" />
       </p>
     </td>
+  
    
    <td>
       <p align="right">
