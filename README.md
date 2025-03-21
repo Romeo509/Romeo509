@@ -40,7 +40,7 @@
 
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=14&duration=1000&pause=500&color=ff00ff&center=false&vCenter=true&width=300&lines=┌──(kali㉿romeo)-[~];└─\$+vim+app.py;└─\$+print('Hello,+World!');└─\$+def+main():;└─\$+    print('Running+app...');└─\$+main();└─\$+:+wq" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=14&duration=800&pause=500&color=ff00ff&center=false&vCenter=true&width=500&lines=┌──(kali㉿romeo)-[~];└─\$+vim+app.py;└─\$+i;print('Hello,+World!');└─\$+def+main():;└─\$+    print('Running+app...');└─\$+main();└─\$+:+wq;└─\$+python+app.py;└─\$+Running+app..." alt="Typing SVG" />
 </p>
 
 
