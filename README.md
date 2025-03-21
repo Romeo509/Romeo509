@@ -43,8 +43,8 @@
   <tr>
     <!-- Left: Typing Animation (Code Simulation) -->
        <td>
-          <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=14&duration=1000&pause=800&color=ff00ff&center=false&vCenter=true&width=600&lines=
+       <p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=14&duration=1200&pause=800&color=ff00ff&center=false&vCenter=true&width=600&lines=
   from+flask+import+Flask;
   app=Flask(__name__);
   @app.route('/');
@@ -61,6 +61,7 @@
   print('Listening+on+port+5000...');
   " alt="Typing SVG" />
 </p>
+
 
 
    
