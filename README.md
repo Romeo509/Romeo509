@@ -39,9 +39,24 @@
 ---
 
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=14&duration=700&pause=400&color=ff00ff&center=false&vCenter=true&width=600&lines=┌──(kali㉿romeo)-[~];└─\$+vim+server.py;└─\$+i;└─\$+import+socket;└─\$+host+='0.0.0.0';└─\$+port=8080;└─\$+server=socket.socket();└─\$+server.bind((host,port));└─\$+server.listen(5);└─\$+print('Server+Running...');└─\$+while+True:;└─\$+    client,addr=server.accept();└─\$+    print(f'Connection+from+{addr}');└─\$+    client.send(b'Hello+Client!');└─\$+    client.close();└─\$+:+wq;└─\$+python+server.py;└─\$+Server+Running...;" alt="Typing SVG" />
-</p>
+<table>
+  <tr>
+    <!-- Left: Typing Animation -->
+    <td>
+      <p align="left">
+        <img src="https://readme-typing-svg.demolab.com?font=monospace&size=14&duration=700&pause=400&color=ff00ff&center=false&vCenter=true&width=600&lines=┌──(kali㉿romeo)-[~];└─\$+vim+server.py;└─\$+i;└─\$+import+socket;└─\$+host+='0.0.0.0';└─\$+port=8080;└─\$+server=socket.socket();└─\$+server.bind((host,port));└─\$+server.listen(5);└─\$+print('Server+Running...');└─\$+while+True:;└─\$+    client,addr=server.accept();└─\$+    print(f'Connection+from+{addr}');└─\$+    client.send(b'Hello+Client!');└─\$+    client.close();└─\$+:+wq;└─\$+python+server.py;└─\$+Server+Running...;" alt="Typing SVG" />
+      </p>
+    </td>
+    
+    <!-- Right: GIF -->
+    <td>
+      <p align="right">
+        <img src="https://i.pinimg.com/originals/69/d2/8c/69d28cb69a870c8ebee0149f7d9fd7a5.gif" width="300px"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 
 
