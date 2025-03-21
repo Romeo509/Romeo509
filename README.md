@@ -39,7 +39,9 @@
 ![GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 ---
+## 🐍 **GitHub Snake Eating My Contributions** 🐍
 
+![Snake Animation](https://github.com/Romeo509/Romeo509/blob/output/github-contribution-grid-snake.svg)
 ### 📡 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Romeo509)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Romeo509)
