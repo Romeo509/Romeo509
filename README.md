@@ -9,8 +9,8 @@
 ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝ ╚═════╝     ╚═╝  ╚═══╝╚══════╝ ╚══╝╚══╝  ╚═════╝
 ```
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=20&duration=4000&pause=1000&color=ff00ff&center=true&vCenter=true&width=800&lines=┌──(kali㉿kali)-[~];└─\$+Hello,+World!+I'm+Romeo+Newo;└─\$+🚀+Software+Engineer+with+a+Gamer's+Heart+🎮💜;└─\$+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=20&duration=4000&pause=1000&color=ff00ff&center=true&vCenter=true&width=800&lines=┌──(kali㉿romeo)-[~];└─\$+Hello,+World!+I'm+Romeo+Newo;└─\$+🚀+Software+Engineer+with+a+Gamer's+Heart+🎮💜;└─\$+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 
@@ -34,9 +34,6 @@
 ### 🏆 GitHub Stats & Activity:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Romeo509&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Romeo509&layout=compact&theme=radical)
-
-#### 🚀 Snake Eating My Contributions:
-![Snake animation](https://github.com/Romeo509/Romeo509/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
