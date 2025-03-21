@@ -43,24 +43,10 @@
   <tr>
     <!-- Left: Typing Animation (Code Simulation) -->
        <td>
-       <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=14&duration=1200&pause=800&color=ff00ff&center=false&vCenter=true&width=600&lines=
-  from+flask+import+Flask;
-  app=Flask(__name__);
-  @app.route('/');
-  def+home():
-  return+'Hello,+World!';
-  from+flask+import+request;
-  @app.route('/greet');
-  def+greet():
-  name=request.args.get('name','Guest');
-  return+f'Hello,+{name}!';
-  if+__name__+==+'__main__':
-  app.run(host='0.0.0.0',port=5000,debug=True);
-  print('Server+Running...');
-  print('Listening+on+port+5000...');
-  " alt="Typing SVG" />
+      <p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=14&duration=1200&pause=800&color=ff00ff&center=false&vCenter=true&width=600&lines=from+flask+import+Flask;app=Flask(__name__);@app.route('/');def+home():;return+'Hello,+World!';if+__name__+==+'__main__':;app.run(debug=True);" alt="Typing SVG" />
 </p>
+
 
 
 
