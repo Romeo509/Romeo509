@@ -10,7 +10,9 @@
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=👋+Hello,+World!+I'm+[Romeo Newo];🚀+Software+Engineer+with+a+Gamer's+Heart+🎮💜;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=20&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=👋+Hello,+World!+I'm+Romeo Newo;🚀+Software+Engineer+with+a+Gamer's+Heart+🎮💜;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
+
 
 ### 🛠️ Tech Stack & Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
