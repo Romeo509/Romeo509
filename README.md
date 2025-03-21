@@ -45,7 +45,9 @@
 ```python
 # Code user is typing...
 print("Hello, World!")
-</td> <td> <img src="https://i.pinimg.com/originals/69/d2/8c/69d28cb69a870c8ebee0149f7d9fd7a5.gif" width="200"/> </td> </tr> </table> ```
+</td> <td> <img src="https://i.pinimg.com/originals/69/d2/8c/69d28cb69a870c8ebee0149f7d9fd7a5.gif" width="200"/> </td> </tr> </table>
+```
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
