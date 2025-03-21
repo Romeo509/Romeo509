@@ -10,8 +10,9 @@
 ```
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=17&duration=4000&pause=1000&color=ff00ff&center=true&vLeft=true&width=800&lines=┌──(kali㉿romeo)-[~];└─\$+Hello,+World!+I'm+Romeo+Newo;└─\$+🚀+Passionate+Software+Engineer+&+Full-Stack+Developer;└─\$+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=17&duration=4000&pause=1000&color=ff00ff&center=false&vCenter=true&width=800&lines=┌──(kali㉿romeo)-[~];└─\$+Hello,+World!+I'm+Romeo+Newo;└─\$+🚀+Passionate+Software+Engineer+&+Full-Stack+Developer;└─\$+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
+
 
 
 
