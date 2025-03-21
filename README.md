@@ -44,7 +44,7 @@
     <!-- Left: Typing Animation (Code Simulation) -->
        <td>
      <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=16&duration=800&pause=500&color=ff00ff&center=false&vCenter=true&width=800&lines=from+flask+import+Flask,+jsonify;app+=+Flask(__name__);;@app.route('/');def+home():;++++return+jsonify({'message':+'Welcome+to+the+API!'});;@app.route('/users');def+get_users():;++++users+=+[{'id':+1,+''name'':+'Alice'},{'id':+2,+''name'':+'Bob'}];++++return+jsonify(users);;@app.route('/user/<int:user_id>');def+get_user(user_id):;++++users+=+[{1:+{'name':+'Alice'}},+{2:+{'name':+'Bob'}}];++++return+jsonify(users.get(user_id,+{'error':+'User+not+found'}));;if+__name__+==+'__main__':;++++app.run(debug=True);" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=16&duration=800&pause=500&color=ff00ff&center=false&vCenter=true&width=500&lines=from+flask+import+Flask,+jsonify;app+=+Flask(__name__);;@app.route('/');def+home():;++++return+jsonify({'message':+'Welcome+to+the+API!'});;@app.route('/users');def+get_users():;++++users+=+[{'id':+1,+''name'':+'Alice'},{'id':+2,+''name'':+'Bob'}];++++return+jsonify(users);;@app.route('/user/<int:user_id>');def+get_user(user_id):;++++users+=+[{1:+{'name':+'Alice'}},+{2:+{'name':+'Bob'}}];++++return+jsonify(users.get(user_id,+{'error':+'User+not+found'}));;if+__name__+==+'__main__':;++++app.run(debug=True);" alt="Typing SVG" />
 </p>
 
 
