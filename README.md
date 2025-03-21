@@ -85,3 +85,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=600&width=500&lines=Welcome+to+my+GitHub+profile!;I'm+a+passionate+developer;Building+creative+solutions;Check+out+my+repositories;Let's+connect+and+collaborate!" alt="Typing Animation" />
 </div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&width=500&lines=Welcome+to+my+GitHub+profile!;I'm+a+passionate+developer;Building+creative+solutions;Check+out+my+repositories;Let's+connect+and+collaborate!&repeat=true&center=true" alt="Typing Animation" />
+</div>
