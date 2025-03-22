@@ -10,7 +10,7 @@
 ```
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=17&duration=3500&pause=1000&color=ff00ff&center=false&vCenter=true&width=800&lines=┌──(kali㉿romeo)-[~];└─\$+Hello,+World!+I'm+Romeo+Newo;└─\$+🚀+Passionate+Software+Engineer+&+Full-Stack+Developer;└─\$+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=17&duration=3000&pause=1000&color=ff00ff&center=false&vCenter=true&width=800&lines=┌──(kali㉿romeo)-[~];└─\$+Hello,+World!+I'm+Romeo+Newo;└─\$+🚀+Passionate+Software+Engineer+&+Full-Stack+Developer;└─\$+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 
@@ -100,15 +100,3 @@
   <!-- Animation 1 -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&width=500&lines=⚡+Hack+the+Code,+Build+the+Future+⚡&repeat=true&center=true" alt="Typing Animation 1" />
   
-  <!-- Animation 2 (with delay) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&width=500&lines=🚀+Innovate,+Create,+Elevate+🚀&repeat=true&center=true" alt="Typing Animation 2" />
-  
-  <!-- Animation 3 (with delay) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&width=500&lines=💡+Think+Big,+Code+Bigger+💡&repeat=true&center=true" alt="Typing Animation 3" />
-  
-  <!-- Animation 4 (with delay) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&width=500&lines=🌍+Code+for+Impact,+Change+the+World+🌍&repeat=true&center=true" alt="Typing Animation 4" />
-  
-  <!-- Animation 5 (with delay) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&width=500&lines=🔥+Stay+Curious,+Keep+Building+🔥&repeat=true&center=true" alt="Typing Animation 5" />
-</div>
