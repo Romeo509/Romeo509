@@ -95,8 +95,3 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&width=500&lines=⚡+Hack+the+Code,+Build+the+Future+⚡&repeat=true&center=true" alt="Typing Animation" />
 </div>
-
-<div align="center">
-  <!-- Animation 1 -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&width=500&lines=⚡+Hack+the+Code,+Build+the+Future+⚡&repeat=true&center=true" alt="Typing Animation 1" />
-  
