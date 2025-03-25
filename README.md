@@ -103,7 +103,7 @@
 
 
 
-![Snake animation](https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/output/snake.svg)
+![Snake animation](https://github.com/Romeo509/Romeo509/blob/output/snake.svg)
 
 
 
