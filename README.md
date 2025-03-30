@@ -71,23 +71,23 @@
   <tr>
     <!-- Left: Typing Animation (Code Simulation) -->
        <td>
-     <p align="left">
-  <!-- Part 1 -->
-  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=13&duration=10000&pause=500&color=ff00ff&center=false&vCenter=true&width=500&lines=from+flask+import+Flask,+jsonify%0Aapp+%3D+Flask(__name__)" alt="Typing SVG Part 1" />
+     <!-- Sequential Typing Animation for Flask Code -->
+<p align="left">
+  <!-- Part 1 - Initializes Flask -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=1000&color=FF00FF&width=500&lines=from+flask+import+Flask,+jsonify%0Aapp+%3D+Flask(__name__)" alt="Flask Initialization" />
   
-  <!-- Part 2 -->
-  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=13&duration=4000&pause=700&color=ff00ff&center=false&vCenter=true&width=500&lines=%40app.route(%27%2F%27)%0Adef+home()%3A%0A++++return+jsonify(%7B%27message%27%3A+%27Welcome+to+the+API%21%27%7D)" alt="Typing SVG Part 2" />
+  <!-- Part 2 - Home Route (appears after Part 1 finishes) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=1000&color=FF00FF&width=500&lines=%40app.route(%27%2F%27)%0Adef+home()%3A%0A++++return+jsonify(%7B%27message%27%3A+%27Welcome%27%7D)" alt="Home Route" />
   
-  <!-- Part 3 -->
-  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=13&duration=5000&pause=500&color=ff00ff&center=false&vCenter=true&width=500&lines=%40app.route(%27%2Fusers%27)%0Adef+get_users()%3A%0A++++users+%3D+%5B%7B%27id%27%3A+1%2C+%27name%27%3A+%27Alice%27%7D%2C+%7B%27id%27%3A+2%2C+%27name%27%3A+%27Bob%27%7D%5D%0A++++return+jsonify(users)" alt="Typing SVG Part 3" />
+  <!-- Part 3 - Users Route -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=FF00FF&width=500&lines=%40app.route(%27%2Fusers%27)%0Adef+get_users()%3A%0A++++users+%3D+%5B%7B%27id%27%3A+1%7D%2C+%7B%27id%27%3A+2%7D%5D%0A++++return+jsonify(users)" alt="Users Route" />
   
-  <!-- Part 4 -->
-  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=13&duration=6000&pause=300&color=ff00ff&center=false&vCenter=true&width=500&lines=%40app.route(%27%2Fuser%2F%3Cint%3Auser_id%3E%27)%0Adef+get_user(user_id)%3A%0A++++users+%3D+%7B1%3A+%7B%27name%27%3A+%27Alice%27%7D%2C+2%3A+%7B%27name%27%3A+%27Bob%27%7D%7D%0A++++return+jsonify(users.get(user_id%2C+%7B%27error%27%3A+%27User+not+found%27%7D))" alt="Typing SVG Part 4" />
+  <!-- Part 4 - Single User Route -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=FF00FF&width=500&lines=%40app.route(%27%2Fuser%2F%3Cint%3Auser_id%3E%27)%0Adef+get_user(user_id)%3A%0A++++users+%3D+%7B1%3A+%7B%27name%27%3A+%27Alice%27%7D%7D%0A++++return+jsonify(users.get(user_id))" alt="User Route" />
   
-  <!-- Part 5 -->
-  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=13&duration=7000&pause=100&color=ff00ff&center=false&vCenter=true&width=500&lines=if+__name__+%3D%3D+%27__main__%27%3A%0A++++app.run(debug%3DTrue)" alt="Typing SVG Part 5" />
+  <!-- Part 5 - App Runner -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1000&pause=3000&color=FF00FF&width=500&lines=if+__name__+%3D%3D+%27__main__%27%3A%0A++++app.run(debug%3DTrue)" alt="App Runner" />
 </p>
-
 
 
 
