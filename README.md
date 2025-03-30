@@ -74,7 +74,8 @@
      <!-- Sequential Typing Animation for Flask Code -->
 <p align="left">
   <!-- Part 1 - Initializes Flask -->
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=500&color=FF00FF&width=500&lines=from+flask+import+Flask,+jsonify;500&lines=app+%3D+Flask(__name__)" alt="Flask Initialization" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=1000&color=FF00FF&width=500&lines=from+flask+import+Flask,+jsonify%0Aapp+%3D+Flask(__name__)" alt="Flask Initialization" />
+  
   <!-- Part 2 - Home Route (appears after Part 1 finishes) -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=FF00FF&width=500&lines=%40app.route(%27%2F%27)%0Adef+home()%3A%0A++++return+jsonify(%7B%27message%27%3A+%27Welcome%27%7D)" alt="Home Route" />
   
