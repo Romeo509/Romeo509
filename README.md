@@ -73,7 +73,7 @@
        <td>
      <p align="left">
   <!-- Part 1 -->
-  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=13&duration=3000&pause=900&color=ff00ff&center=false&vCenter=true&width=500&lines=from+flask+import+Flask,+jsonify%0Aapp+%3D+Flask(__name__)" alt="Typing SVG Part 1" />
+  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=13&duration=3000&pause=1500&color=ff00ff&center=false&vCenter=true&width=500&lines=from+flask+import+Flask,+jsonify%0Aapp+%3D+Flask(__name__)" alt="Typing SVG Part 1" />
   
   <!-- Part 2 -->
   <img src="https://readme-typing-svg.demolab.com?font=monospace&size=13&duration=4000&pause=700&color=ff00ff&center=false&vCenter=true&width=500&lines=%40app.route(%27%2F%27)%0Adef+home()%3A%0A++++return+jsonify(%7B%27message%27%3A+%27Welcome+to+the+API%21%27%7D)" alt="Typing SVG Part 2" />
