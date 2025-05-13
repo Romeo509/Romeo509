@@ -13,7 +13,8 @@
   <img src="https://readme-typing-svg.demolab.com?
     font=monospace&size=17&duration=3000&pause=1000&color=ff00ff&center=false&vCenter=true&width=800&lines=┌──(user㉿romeo)-[~];└─\$+Hello,+World!+I'm+Romeo+Newo;└─\$+🚀+Passionate+Software+Engineer+&+Full-Stack+Developer;└─\$+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
- <img src="https://readme-typing-svg.demolab.com?font=monospace&size=17&duration=3000&pause=1000&color=ff00ff&center=false&vCenter=true&width=800&lines=┌──(user㉿romeo)-[~];└─\$+Hello,+World!+I'm+Romeo+Newo;└─\$+🚀+Passionate+Software+Engineer+&+Full-Stack+Developer;└─\$+Welcome+to+my+GitHub+Profile!" alt="App Runner" />
+ <p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=17&duration=3000&pause=1000&color=ff00ff&center=false&vCenter=true&width=800&lines=┌──(user㉿romeo)-[~];└─$+Hello,+World!+I'm+Romeo+Newo;└─$+🚀+Passionate+Software+Engineer+&+Full-Stack+Developer;└─$+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 
