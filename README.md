@@ -9,10 +9,7 @@
 ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝ ╚═════╝     ╚═╝  ╚═══╝╚══════╝ ╚══╝╚══╝  ╚═════╝
 ```
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?
-    font=monospace&size=17&duration=3000&pause=1000&color=ff00ff&center=false&vCenter=true&width=800&lines=┌──(user㉿romeo)-[~];└─\$+Hello,+World!+I'm+Romeo+Newo;└─\$+🚀+Passionate+Software+Engineer+&+Full-Stack+Developer;└─\$+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</p>
+
  <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=monospace&size=17&duration=3000&pause=1000&color=ff00ff&center=false&vCenter=true&width=800&lines=%E2%94%8C%E2%94%80%E2%94%80(user%E3%89%BFromeo)-[~];%E2%94%94%E2%94%80%24+Hello,+World!+I'm+Romeo+Newo;%E2%94%94%E2%94%80%24+%F0%9F%9A%80+Passionate+Software+Engineer+%26+Full-Stack+Developer;%E2%94%94%E2%94%80%24+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
