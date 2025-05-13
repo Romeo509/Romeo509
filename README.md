@@ -12,13 +12,14 @@
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=monospace&size=17&duration=3000&pause=1000&color=ff00ff&center=false&vCenter=true&width=800&lines=┌──(user㉿romeo)-[~];└─\$+Hello,+World!+I'm+Romeo+Newo;└─\$+🚀+Passionate+Software+Engineer+&+Full-Stack+Developer;└─\$+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1000&pause=1000&color=FF00FF&width=500&lines=if+__name__+%3D%3D+%27__main__%27%3A%0A++++app.run(debug%3DTrue)" alt="App Runner" />
+</p>
 
 
 
 
 
-
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools I've worked with </h3>
 
 ###
 
