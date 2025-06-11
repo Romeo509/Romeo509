@@ -62,8 +62,8 @@
 
 
 ### 🏆 GitHub Stats & Activity:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=romeonewo&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romeonewo&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Romeo509&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Romeo509&layout=compact&theme=radical)
 
 ---
 
@@ -104,7 +104,7 @@
 
 
 
-![Snake animation](https://github.com/romeonewo/romeonewo/blob/output/snake.svg)
+![Snake animation](https://github.com/Romeo509/Romeo509/blob/output/snake.svg)
 
 
 
