@@ -79,82 +79,10 @@
     <!-- Left: Typing Animation (Code Simulation) -->
        <td>
      <!-- Sequential Typing Animation for Flask Code -->
-<div style="position: relative; height: 320px; overflow: hidden;">
-  <!-- Line 1 -->
-  <div style="position: absolute; top: 0px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=10000&color=FF00FF&repeat=false&width=500&height=20&lines=from+flask+import+Flask%2C+jsonify" alt="Line 1" />
-  </div>
-  
-  <!-- Line 2 -->
-  <div style="position: absolute; top: 20px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=10000&color=FF00FF&repeat=false&width=500&height=20&lines=app+%3D+Flask(__name__)&delay=2000" alt="Line 2" />
-  </div>
-  
-  <!-- Line 3 (blank) -->
-  <div style="position: absolute; top: 40px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=100&pause=10000&color=FF00FF&repeat=false&width=500&height=20&lines=&delay=4000" alt="Line 3" />
-  </div>
-  
-  <!-- Line 4 -->
-  <div style="position: absolute; top: 60px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=10000&color=FF00FF&repeat=false&width=500&height=20&lines=%40app.route(%27%2F%27)&delay=4100" alt="Line 4" />
-  </div>
-  
-  <!-- Line 5 -->
-  <div style="position: absolute; top: 80px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=10000&color=FF00FF&repeat=false&width=500&height=20&lines=def+home()%3A&delay=6100" alt="Line 5" />
-  </div>
-  
-  <!-- Line 6 -->
-  <div style="position: absolute; top: 100px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=10000&color=FF00FF&repeat=false&width=500&height=20&lines=++++return+jsonify(%7B%27message%27%3A+%27Welcome%27%7D)&delay=8100" alt="Line 6" />
-  </div>
-  
-  <!-- Line 7 (blank) -->
-  <div style="position: absolute; top: 120px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=100&pause=10000&color=FF00FF&repeat=false&width=500&height=20&lines=&delay=10600" alt="Line 7" />
-  </div>
-  
-  <!-- Line 8 -->
-  <div style="position: absolute; top: 140px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=10000&color=FF00FF&repeat=false&width=500&height=20&lines=%40app.route(%27%2Fusers%27)&delay=10700" alt="Line 8" />
-  </div>
-  
-  <!-- Line 9 -->
-  <div style="position: absolute; top: 160px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=10000&color=FF00FF&repeat=false&width=500&height=20&lines=def+get_users()%3A&delay=12700" alt="Line 9" />
-  </div>
-  
-  <!-- Line 10 -->
-  <div style="position: absolute; top: 180px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=10000&color=FF00FF&repeat=false&width=500&height=20&lines=++++users+%3D+%5B%7B%27id%27%3A+1%7D%2C+%7B%27id%27%3A+2%7D%5D&delay=14700" alt="Line 10" />
-  </div>
-  
-  <!-- Line 11 -->
-  <div style="position: absolute; top: 200px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=10000&color=FF00FF&repeat=false&width=500&height=20&lines=++++return+jsonify(users)&delay=17200" alt="Line 11" />
-  </div>
-  
-  <!-- Line 12 (blank) -->
-  <div style="position: absolute; top: 220px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=100&pause=10000&color=FF00FF&repeat=false&width=500&height=20&lines=&delay=19200" alt="Line 12" />
-  </div>
-  
-  <!-- Line 13 -->
-  <div style="position: absolute; top: 240px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=10000&color=FF00FF&repeat=false&width=500&height=20&lines=if+__name__+%3D%3D+%27__main__%27%3A&delay=19300" alt="Line 13" />
-  </div>
-  
-  <!-- Line 14 -->
-  <div style="position: absolute; top: 260px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=10000&color=FF00FF&repeat=false&width=500&height=20&lines=++++app.run(debug%3DTrue)&delay=21300" alt="Line 14" />
-  </div>
-  
-  <!-- Restart animation after all lines are typed -->
-  <div style="position: absolute; top: 280px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=100&pause=100&color=FF00FF&width=500&height=20&lines=&delay=23300&repeat=true" alt="Restart" />
-  </div>
-</div>
+<p align="left">
+  <!-- Progressive typing animation that builds up the code -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1000&pause=600&color=FF00FF&width=500&height=300&lines=from+flask+import+Flask%2C+jsonify;from+flask+import+Flask%2C+jsonify%0Aapp+%3D+Flask(__name__);from+flask+import+Flask%2C+jsonify%0Aapp+%3D+Flask(__name__)%0A%0A%40app.route(%27%2F%27);from+flask+import+Flask%2C+jsonify%0Aapp+%3D+Flask(__name__)%0A%0A%40app.route(%27%2F%27)%0Adef+home()%3A;from+flask+import+Flask%2C+jsonify%0Aapp+%3D+Flask(__name__)%0A%0A%40app.route(%27%2F%27)%0Adef+home()%3A%0A++++return+jsonify(%7B%27message%27%3A+%27Welcome%27%7D);from+flask+import+Flask%2C+jsonify%0Aapp+%3D+Flask(__name__)%0A%0A%40app.route(%27%2F%27)%0Adef+home()%3A%0A++++return+jsonify(%7B%27message%27%3A+%27Welcome%27%7D)%0A%0A%40app.route(%27%2Fusers%27);from+flask+import+Flask%2C+jsonify%0Aapp+%3D+Flask(__name__)%0A%0A%40app.route(%27%2F%27)%0Adef+home()%3A%0A++++return+jsonify(%7B%27message%27%3A+%27Welcome%27%7D)%0A%0A%40app.route(%27%2Fusers%27)%0Adef+get_users()%3A;from+flask+import+Flask%2C+jsonify%0Aapp+%3D+Flask(__name__)%0A%0A%40app.route(%27%2F%27)%0Adef+home()%3A%0A++++return+jsonify(%7B%27message%27%3A+%27Welcome%27%7D)%0A%0A%40app.route(%27%2Fusers%27)%0Adef+get_users()%3A%0A++++users+%3D+%5B%7B%27id%27%3A+1%7D%2C+%7B%27id%27%3A+2%7D%5D;from+flask+import+Flask%2C+jsonify%0Aapp+%3D+Flask(__name__)%0A%0A%40app.route(%27%2F%27)%0Adef+home()%3A%0A++++return+jsonify(%7B%27message%27%3A+%27Welcome%27%7D)%0A%0A%40app.route(%27%2Fusers%27)%0Adef+get_users()%3A%0A++++users+%3D+%5B%7B%27id%27%3A+1%7D%2C+%7B%27id%27%3A+2%7D%5D%0A++++return+jsonify(users);from+flask+import+Flask%2C+jsonify%0Aapp+%3D+Flask(__name__)%0A%0A%40app.route(%27%2F%27)%0Adef+home()%3A%0A++++return+jsonify(%7B%27message%27%3A+%27Welcome%27%7D)%0A%0A%40app.route(%27%2Fusers%27)%0Adef+get_users()%3A%0A++++users+%3D+%5B%7B%27id%27%3A+1%7D%2C+%7B%27id%27%3A+2%7D%5D%0A++++return+jsonify(users)%0A%0Aif+__name__+%3D%3D+%27__main__%27%3A;from+flask+import+Flask%2C+jsonify%0Aapp+%3D+Flask(__name__)%0A%0A%40app.route(%27%2F%27)%0Adef+home()%3A%0A++++return+jsonify(%7B%27message%27%3A+%27Welcome%27%7D)%0A%0A%40app.route(%27%2Fusers%27)%0Adef+get_users()%3A%0A++++users+%3D+%5B%7B%27id%27%3A+1%7D%2C+%7B%27id%27%3A+2%7D%5D%0A++++return+jsonify(users)%0A%0Aif+__name__+%3D%3D+%27__main__%27%3A%0A++++app.run(debug%3DTrue)" alt="Flask Code Animation" />
+</p>
 
 
    
