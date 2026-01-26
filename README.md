@@ -91,12 +91,12 @@
 </table>
 
 
-<table>
-  <tr>
-    <td width="40%" align="center">
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none; width: 40%; text-align: center;">
       <img src="sol.png" width="300px" />
     </td>
-    <td width="60%" align="left">
+    <td style="border: none; width: 60%; text-align: left;">
       <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=005" width="16" height="16" /> <strong>Build and deploy Solana programs (Anchor (rust))</strong><br>
       <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=005" width="16" height="16" /> Design and launch SPL tokens<br>
       <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=005" width="16" height="16" /> Work with liquidity pools, mint & freeze authorities<br>
