@@ -91,6 +91,21 @@
 </table>
 
 
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div style="flex: 1; text-align: center;">
+    <img src="sol.png" width="300px" />
+  </div>
+  <div style="flex: 1; text-align: left;">
+    <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=005" width="16" height="16" /> <strong>Build and deploy Solana programs (Anchor (rust))</strong><br>
+    <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=005" width="16" height="16" /> Design and launch SPL tokens<br>
+    <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=005" width="16" height="16" /> Work with liquidity pools, mint & freeze authorities<br>
+    <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=005" width="16" height="16" /> Building bundlers, snipers and automated programs that support communities on Solana<br>
+    <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=005" width="16" height="16" /> Explore on-chain mechanics and real-world use cases
+  </div>
+</div>
+
+
+
 
 
 ![Snake animation](https://github.com/Romeo509/Romeo509/blob/output/snake.svg)

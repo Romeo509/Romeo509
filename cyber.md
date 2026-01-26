@@ -94,6 +94,24 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <!-- Left: SOL Image -->
+    <td>
+      <p align="left">
+        <img src="sol.png" width="300px"/>
+      </p>
+    </td>
+    
+    <!-- Right: Text Content -->
+    <td>
+      <p align="right">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&width=500&lines=⚡+Hack+the+Code,+Build+the+Future+⚡&repeat=true&center=true" alt="Hack the Code, Build the Future" />
+      </p>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
