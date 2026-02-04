@@ -69,7 +69,7 @@
     <!-- Right: GIF -->
     <td>
       <p align="right">
-        <img src="https://i.pinimg.com/originals/69/d2/8c/69d28cb69a870c8ebee0149f7d9fd7a5.gif" width="300px"/>
+        <img src="Romeo509-space-shooter.gif" width="300px"/>
       </p>
     </td>
   </tr>
