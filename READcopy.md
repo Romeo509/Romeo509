@@ -60,7 +60,7 @@
 <table>
   <tr>
     <td>
-      <img src="terminal-for-github-profile-readme-main/github_stats.svg" alt="GitHub Stats Terminal" />
+      <img src="custom-terminal.svg" alt="Server Management Terminal" />
     </td>
     <td>
       <img src="https://i.pinimg.com/originals/69/d2/8c/69d28cb69a870c8ebee0149f7d9fd7a5.gif" width="300px" alt="Coding GIF"/>
