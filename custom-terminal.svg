@@ -1,235 +1,138 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="terminal" baseProfile="full" viewBox="0 0 500 430" width="550" version="1.1">
     <defs>
-        <termtosvg:template_settings xmlns:termtosvg="https://github.com/nbedos/termtosvg">
-            <termtosvg:screen_geometry columns="95" rows="21" />
-            <termtosvg:animation type="css" />
-        </termtosvg:template_settings>
-        <style type="text/css" id="generated-style">
-            <![CDATA[#screen {
+        <style type="text/css">
+            <![CDATA[
+            #screen {
                 font-family: 'DejaVu Sans Mono', monospace;
                 font-style: normal;
                 font-size: 14px;
             }
-
-        text {
-            dominant-baseline: text-before-edge;
-            white-space: pre;
-        }
-
+            text {
+                dominant-baseline: text-before-edge;
+                white-space: pre;
+            }
             :root {
-                --animation-duration: 18000ms;
+                --animation-duration: 20000ms;
             }
-
             @keyframes roll {
-                0.000%{transform:translateY(0px)}
-                5.000%{transform:translateY(-374px)}
-                10.000%{transform:translateY(-748px)}
-                15.000%{transform:translateY(-1122px)}
-                20.000%{transform:translateY(-1496px)}
-                25.000%{transform:translateY(-1870px)}
-                30.000%{transform:translateY(-2244px)}
-                35.000%{transform:translateY(-2618px)}
-                40.000%{transform:translateY(-2992px)}
-                45.000%{transform:translateY(-3366px)}
-                50.000%{transform:translateY(-3740px)}
-                55.000%{transform:translateY(-4114px)}
-                60.000%{transform:translateY(-4488px)}
-                65.000%{transform:translateY(-4862px)}
-                70.000%{transform:translateY(-5236px)}
-                75.000%{transform:translateY(-5610px)}
-                80.000%{transform:translateY(-5984px)}
-                85.000%{transform:translateY(-6358px)}
-                90.000%{transform:translateY(-6732px)}
-                95.000%{transform:translateY(-7106px)}
-                100.000%{transform:translateY(-7106px)}
+                0%{transform:translateY(0px)}
+                3%{transform:translateY(-17px)}
+                6%{transform:translateY(-34px)}
+                9%{transform:translateY(-51px)}
+                12%{transform:translateY(-68px)}
+                15%{transform:translateY(-85px)}
+                18%{transform:translateY(-102px)}
+                21%{transform:translateY(-119px)}
+                24%{transform:translateY(-136px)}
+                27%{transform:translateY(-153px)}
+                30%{transform:translateY(-170px)}
+                33%{transform:translateY(-187px)}
+                36%{transform:translateY(-204px)}
+                39%{transform:translateY(-221px)}
+                42%{transform:translateY(-238px)}
+                45%{transform:translateY(-255px)}
+                48%{transform:translateY(-272px)}
+                51%{transform:translateY(-289px)}
+                54%{transform:translateY(-306px)}
+                57%{transform:translateY(-323px)}
+                60%{transform:translateY(-340px)}
+                100%{transform:translateY(-340px)}
             }
-
             #screen_view {
-                animation-duration: 18000ms;
-                animation-iteration-count:infinite;
-                animation-name:roll;
+                animation-duration: 20000ms;
+                animation-iteration-count: infinite;
+                animation-name: roll;
                 animation-timing-function: steps(1,end);
                 animation-fill-mode: forwards;
             }
-        ]]>
-        </style>
-        <style type="text/css" id="user-style">
             .foreground {fill: #00ff00}
             .background {fill: #0a0e14}
-            .color0 {fill: #272822}
-            .color1 {fill: #f92672}
             .green {fill: #00ff00}
-            .color3 {fill: #f4bf75}
-            .color4 {fill: #66d9ef}
             .purple {fill: #bd93f9}
-            .color6 {fill: #8be9fd}
-            .color7 {fill: #f8f8f2}
-            .color8 {fill: #75715e}
-            .color9 {fill: #fd971f}
-            .color10 {fill: #ff79c6}
-            .color11 {fill: #49483e}
-            .color12 {fill: #00ff00}
-            .color13 {fill: #f5f4f1}
+            .cyan {fill: #8be9fd}
             .orange {fill: #ffb86c}
-            .color15 {fill: #f9f8f5}
             .red {fill: #ff5555}
             .yellow {fill: #f1fa8c}
+            .prompt {fill: #ff79c6}
+            ]]>
         </style>
     </defs>
     <rect id="terminalui" class="background" width="100%" height="100%" ry="4.5826941" />
     <circle cx="24" cy="23" r="7" fill="#f92672" />
     <circle cx="44" cy="23" r="7" fill="#f4bf75" />
     <circle cx="64" cy="23" r="7" fill="#a6e22e" />
-    <svg id="screen" width="760" height="357" x="23" y="50" viewBox="0 0 760 357" preserveAspectRatio="xMidYMin slice">
+    <svg id="screen" width="760" height="357" x="0" y="50" viewBox="0 0 760 357" preserveAspectRatio="xMidYMin meet">
         <rect class="background" height="100%" width="100%" x="0" y="0" />
-        <defs>
-            <!-- SSH into server -->
-            <g id="g1">
-                <text x="0" textLength="88" font-weight="bold" class="color10">romeo@dev</text>
-                <text x="88" textLength="8" class="foreground">:</text>
-                <text x="96" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="104" textLength="240" class="foreground">$ ssh root@production-server</text>
-            </g>
-            <g id="g2">
-                <text x="0" textLength="240" class="green">✓ Connected to production-server</text>
-            </g>
-            <!-- Docker commands -->
-            <g id="g3">
-                <text x="0" textLength="120" font-weight="bold" class="red">root@prod</text>
-                <text x="120" textLength="240" class="foreground">$ docker ps -a</text>
-            </g>
-            <g id="g4">
-                <text x="0" textLength="320" class="color6">CONTAINER ID   STATUS    PORTS</text>
-            </g>
-            <g id="g5">
-                <text x="0" textLength="320" class="foreground">3a9f8b2c     Up 12 days   :8080-&gt;80</text>
-            </g>
-            <!-- Deploy application -->
-            <g id="g6">
-                <text x="0" textLength="120" font-weight="bold" class="red">root@prod</text>
-                <text x="120" textLength="280" class="foreground">$ git pull origin main</text>
-            </g>
-            <g id="g7">
-                <text x="0" textLength="280" class="green">✓ Pulling latest changes...</text>
-            </g>
-            <!-- Build process -->
-            <g id="g8">
-                <text x="0" textLength="120" font-weight="bold" class="red">root@prod</text>
-                <text x="120" textLength="280" class="foreground">$ npm run build --production</text>
-            </g>
-            <g id="g9">
-                <text x="0" textLength="320" class="yellow">Building optimized production bundle...</text>
-            </g>
-            <!-- Database operations -->
-            <g id="g10">
-                <text x="0" textLength="120" font-weight="bold" class="red">root@prod</text>
-                <text x="120" textLength="240" class="foreground">$ psql -U postgres</text>
-            </g>
-            <g id="g11">
-                <text x="0" textLength="240" class="purple">postgres=# SELECT * FROM users;</text>
-            </g>
-            <g id="g12">
-                <text x="0" textLength="200" class="foreground">    1247 rows returned</text>
-            </g>
-            <!-- PM2 process management -->
-            <g id="g13">
-                <text x="0" textLength="120" font-weight="bold" class="red">root@prod</text>
-                <text x="120" textLength="240" class="foreground">$ pm2 restart api</text>
-            </g>
-            <g id="g14">
-                <text x="0" textLength="280" class="green">✓ API restarted successfully</text>
-            </g>
-            <!-- Monitoring -->
-            <g id="g15">
-                <text x="0" textLength="120" font-weight="bold" class="red">root@prod</text>
-                <text x="120" textLength="200" class="foreground">$ htop</text>
-            </g>
-            <g id="g16">
-                <text x="0" textLength="280" class="orange">CPU: 24%  MEM: 2.1GB/8GB  LOAD: 0.82</text>
-            </g>
-            <!-- Nginx config -->
-            <g id="g17">
-                <text x="0" textLength="120" font-weight="bold" class="red">root@prod</text>
-                <text x="120" textLength="280" class="foreground">$ nginx -t &amp;&amp; systemctl reload nginx</text>
-            </g>
-            <g id="g18">
-                <text x="0" textLength="280" class="green">✓ nginx: configuration test successful</text>
-            </g>
-            <!-- Success message -->
-            <g id="g19">
-                <text x="0" textLength="280" font-weight="bold" class="green">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</text>
-            </g>
-            <g id="g20">
-                <text x="0" textLength="280" font-weight="bold" class="green">  ✓ DEPLOYMENT SUCCESSFUL</text>
-            </g>
-            <g id="g21">
-                <text x="0" textLength="280" font-weight="bold" class="green">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</text>
-            </g>
-        </defs>
-        <g id="screen_view">
-            <g>
-                <use xlink:href="#g1" y="0" />
-            </g>
-            <g>
-                <use xlink:href="#g2" y="374" />
-            </g>
-            <g>
-                <use xlink:href="#g3" y="748" />
-            </g>
-            <g>
-                <use xlink:href="#g4" y="1122" />
-            </g>
-            <g>
-                <use xlink:href="#g5" y="1496" />
-            </g>
-            <g>
-                <use xlink:href="#g6" y="1870" />
-            </g>
-            <g>
-                <use xlink:href="#g7" y="2244" />
-            </g>
-            <g>
-                <use xlink:href="#g8" y="2618" />
-            </g>
-            <g>
-                <use xlink:href="#g9" y="2992" />
-            </g>
-            <g>
-                <use xlink:href="#g10" y="3366" />
-            </g>
-            <g>
-                <use xlink:href="#g11" y="3740" />
-            </g>
-            <g>
-                <use xlink:href="#g12" y="4114" />
-            </g>
-            <g>
-                <use xlink:href="#g13" y="4488" />
-            </g>
-            <g>
-                <use xlink:href="#g14" y="4862" />
-            </g>
-            <g>
-                <use xlink:href="#g15" y="5236" />
-            </g>
-            <g>
-                <use xlink:href="#g16" y="5610" />
-            </g>
-            <g>
-                <use xlink:href="#g17" y="5984" />
-            </g>
-            <g>
-                <use xlink:href="#g18" y="6358" />
-            </g>
-            <g>
-                <use xlink:href="#g19" y="6732" />
-            </g>
-            <g>
-                <use xlink:href="#g20" y="7106" />
-            </g>
-            <g>
-                <use xlink:href="#g21" y="7480" />
-            </g>
+        <g id="screen_view" transform="translate(10, 10)">
+            <!-- Line 1: SSH command -->
+            <text x="0" y="0" class="prompt" font-weight="bold">romeo@dev:~$</text>
+            <text x="120" y="0" class="foreground"> ssh root@production</text>
+
+            <!-- Line 2: Connected -->
+            <text x="0" y="17" class="green">✓ Connected to production-server</text>
+
+            <!-- Line 3: Empty line -->
+            <text x="0" y="34" class="foreground"> </text>
+
+            <!-- Line 4: Docker command -->
+            <text x="0" y="51" class="red" font-weight="bold">root@prod:~#</text>
+            <text x="120" y="51" class="foreground"> docker ps -a</text>
+
+            <!-- Line 5: Docker output header -->
+            <text x="0" y="68" class="cyan">CONTAINER ID   STATUS      PORTS</text>
+
+            <!-- Line 6: Docker output -->
+            <text x="0" y="85" class="foreground">3a9f8b2c       Up 12 days  :8080-&gt;80</text>
+
+            <!-- Line 7: Empty -->
+            <text x="0" y="102" class="foreground"> </text>
+
+            <!-- Line 8: Git pull -->
+            <text x="0" y="119" class="red" font-weight="bold">root@prod:~#</text>
+            <text x="120" y="119" class="foreground"> git pull origin main</text>
+
+            <!-- Line 9: Git output -->
+            <text x="0" y="136" class="green">✓ Pulling latest changes...</text>
+
+            <!-- Line 10: Empty -->
+            <text x="0" y="153" class="foreground"> </text>
+
+            <!-- Line 11: NPM build -->
+            <text x="0" y="170" class="red" font-weight="bold">root@prod:~#</text>
+            <text x="120" y="170" class="foreground"> npm run build</text>
+
+            <!-- Line 12: Build output -->
+            <text x="0" y="187" class="yellow">Building production bundle...</text>
+
+            <!-- Line 13: Empty -->
+            <text x="0" y="204" class="foreground"> </text>
+
+            <!-- Line 14: Database -->
+            <text x="0" y="221" class="red" font-weight="bold">root@prod:~#</text>
+            <text x="120" y="221" class="foreground"> psql -U postgres</text>
+
+            <!-- Line 15: SQL query -->
+            <text x="0" y="238" class="purple">postgres=#</text>
+            <text x="100" y="238" class="foreground"> SELECT * FROM users;</text>
+
+            <!-- Line 16: SQL result -->
+            <text x="0" y="255" class="foreground">  1247 rows returned</text>
+
+            <!-- Line 17: Empty -->
+            <text x="0" y="272" class="foreground"> </text>
+
+            <!-- Line 18: PM2 -->
+            <text x="0" y="289" class="red" font-weight="bold">root@prod:~#</text>
+            <text x="120" y="289" class="foreground"> pm2 restart api</text>
+
+            <!-- Line 19: PM2 output -->
+            <text x="0" y="306" class="green">✓ API restarted successfully</text>
+
+            <!-- Line 20: Empty -->
+            <text x="0" y="323" class="foreground"> </text>
+
+            <!-- Line 21: Success -->
+            <text x="0" y="340" class="green" font-weight="bold">━━ ✓ DEPLOYMENT SUCCESSFUL ━━</text>
         </g>
     </svg>
 </svg>
