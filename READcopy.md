@@ -59,18 +59,11 @@
 
 <table>
   <tr>
-    <!-- Left: Terminal GitHub Stats -->
     <td>
-      <p align="left">
-        <img src="terminal-for-github-profile-readme-main/github_stats.svg" alt="GitHub Stats Terminal" />
-      </p>
+      <img src="terminal-for-github-profile-readme-main/github_stats.svg" alt="GitHub Stats Terminal" />
     </td>
-
-    <!-- Right: GIF -->
-    <td valign="top">
-      <p align="right">
-        <img src="https://i.pinimg.com/originals/69/d2/8c/69d28cb69a870c8ebee0149f7d9fd7a5.gif" width="300px" alt="Coding GIF"/>
-      </p>
+    <td>
+      <img src="https://i.pinimg.com/originals/69/d2/8c/69d28cb69a870c8ebee0149f7d9fd7a5.gif" width="300px" alt="Coding GIF"/>
     </td>
   </tr>
 </table>
