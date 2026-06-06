@@ -1,6 +1,6 @@
 # Romeo Ronzine Newo
 
-🚀 **Full‑Stack Developer** – crafting immersive web experiences with a dark, rebellious edge.
+🚀 **Full-Stack Developer** – Building modern, scalable, and high-performance web applications.
 
 ---
 
